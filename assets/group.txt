@@ -1,0 +1,25 @@
+0~American Indian/Alaska Native Foods
+1~Baby Foods
+2~Baked Products
+3~Beef Products
+4~Beverages
+5~Breakfast Cereals
+6~Cereal Grains and Pasta
+7~Dairy and Egg Products
+8~Fast Foods
+9~Fats and Oils
+10~Finfish and Shellfish Products
+11~Fruits and Fruit Juices
+12~Lamb, Veal, and Game Products
+13~Legumes and Legume Products
+14~Meals, Entrees, and Sidedishes
+15~Nut and Seed Products
+16~Pork Products
+17~Poultry Products
+18~Restaurant Foods
+19~Sausages and Luncheon Meats
+20~Snacks
+21~Soups, Sauces, and Gravies
+22~Spices and Herbs
+23~Sweets
+24~Vegetables and Vegetable Products
